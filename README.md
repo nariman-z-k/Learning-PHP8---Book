@@ -2,7 +2,7 @@
 انتشارات دیباگران تهران
 
 
-![](https://github.com/nariman-z-k/-PHP8/blob/main/3926051.jpg)
+![alt text](https://bayanbox.ir/view/4272013228144847159/3926051.jpg)
 
 ###   توضیح مولف - پشت جلد
 ------------

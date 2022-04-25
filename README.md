@@ -12,3 +12,5 @@
 ###  لینک خرید کتاب
 ------------
 [https://www.dibagaranpakhsh.ir/index.php?route=product/product&product_id=1765](https://www.dibagaranpakhsh.ir/index.php?route=product/product&product_id=1765)
+
+[https://fidibo.com/book/128068-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-php8](https://fidibo.com/book/128068-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-php8)
